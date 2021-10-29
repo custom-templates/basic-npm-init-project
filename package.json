@@ -1,0 +1,11 @@
+{
+  "name": "Sample NodeJs Project",
+  "version": "1.0.0",
+  "description": "Description of NodeJs Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "V. Sai Prakash",
+  "license": "ISC",
+}
